@@ -12,6 +12,7 @@ Download the plugin and install it in your WordPress.
 
 ⚠️ This functionality is still in development and not ready for production use. Use at your own risk.
 
+⚠️ The API for this could and will change soon.
 
 ## Props:
 Props to [@danklammer](https://github.com/danklammer) for the [Modern Fonts Stacks](https://modernfontstacks.com/) project.
