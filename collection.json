@@ -7,94 +7,94 @@
       "category": "sans-serif"
     },
     {
-        "name": "Transitional",
-        "fontFamily": "Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif",
-        "slug": "transitional",
-        "category": "serif"
-      },
-      {
-        "name": "Old Style",
-        "fontFamily": "'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif",
-        "slug": "old-style",
-        "category": "serif"
-      },
-      {
-        "name": "Humanist",
-        "fontFamily": "Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif",
-        "slug": "humanist",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Geometric Humanist",
-        "fontFamily": "Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif",
-        "slug": "geometric-humanist",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Classical Humanist",
-        "fontFamily": "Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif",
-        "slug": "classical-humanist",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Neo-Grotesque",
-        "fontFamily": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif",
-        "slug": "neo-grotesque",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Monospace Slab Serif",
-        "fontFamily": "'Nimbus Mono PS', 'Courier New', monospace",
-        "slug": "monospace-slab-serif",
-        "category": "monospace"
-      },
-      {
-        "name": "Monospace Code",
-        "fontFamily": "ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace",
-        "slug": "monospace-code",
-        "category": "monospace"
-      },
-      {
-        "name": "Industrial",
-        "fontFamily": "Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif",
-        "slug": "industrial",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Rounded Sans",
-        "fontFamily": "ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif",
-        "slug": "rounded-sans",
-        "category": "sans-serif"
-      },
-      {
-        "name": "Slab Serif",
-        "fontFamily": "Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif",
-        "slug": "slab-serif",
-        "category": "serif"
-      },
-      {
-        "name": "Antique",
-        "fontFamily": "Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif",
-        "slug": "antique",
-        "category": "serif"
-      },
-      {
-        "name": "Didone",
-        "fontFamily": "Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif",
-        "slug": "didone",
-        "category": "serif"
-      },
-      {
-        "name": "Handwritten",
-        "fontFamily": "'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive",
-        "slug": "handwritten",
-        "category": "handwriting"
-      }
+      "name": "Transitional",
+      "fontFamily": "Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif",
+      "slug": "transitional",
+      "category": "serif"
+    },
+    {
+      "name": "Old Style",
+      "fontFamily": "'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif",
+      "slug": "old-style",
+      "category": "serif"
+    },
+    {
+      "name": "Humanist",
+      "fontFamily": "Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif",
+      "slug": "humanist",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Geometric Humanist",
+      "fontFamily": "Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif",
+      "slug": "geometric-humanist",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Classical Humanist",
+      "fontFamily": "Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif",
+      "slug": "classical-humanist",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Neo-Grotesque",
+      "fontFamily": "Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif",
+      "slug": "neo-grotesque",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Monospace Slab Serif",
+      "fontFamily": "'Nimbus Mono PS', 'Courier New', monospace",
+      "slug": "monospace-slab-serif",
+      "category": "monospace"
+    },
+    {
+      "name": "Monospace Code",
+      "fontFamily": "ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace",
+      "slug": "monospace-code",
+      "category": "monospace"
+    },
+    {
+      "name": "Industrial",
+      "fontFamily": "Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif",
+      "slug": "industrial",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Rounded Sans",
+      "fontFamily": "ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif",
+      "slug": "rounded-sans",
+      "category": "sans-serif"
+    },
+    {
+      "name": "Slab Serif",
+      "fontFamily": "Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif",
+      "slug": "slab-serif",
+      "category": "serif"
+    },
+    {
+      "name": "Antique",
+      "fontFamily": "Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif",
+      "slug": "antique",
+      "category": "serif"
+    },
+    {
+      "name": "Didone",
+      "fontFamily": "Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif",
+      "slug": "didone",
+      "category": "serif"
+    },
+    {
+      "name": "Handwritten",
+      "fontFamily": "'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive",
+      "slug": "handwritten",
+      "category": "handwriting"
+    }
   ],
   "categories": [
-    {"id":"sans-serif", "name":"Sans Serif"},
-    {"id":"serif", "name":"Serif"},
-    {"id":"monospace", "name":"Monospace"},
-    {"id":"handwriting", "name":"Handwriting"}
+    { "id": "sans-serif", "name": "Sans Serif" },
+    { "id": "serif", "name": "Serif" },
+    { "id": "monospace", "name": "Monospace" },
+    { "id": "handwriting", "name": "Handwriting" }
   ]
 }
