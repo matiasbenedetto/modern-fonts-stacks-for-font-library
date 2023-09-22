@@ -21,5 +21,3 @@ $modern_fonts_config = array (
 if ( function_exists( 'wp_register_font_collection' ) ) {
     wp_register_font_collection ( $modern_fonts_config );
 }
-
-?>
