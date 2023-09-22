@@ -6,13 +6,12 @@ This is a plugin that adds a font collection to provide users with the ability t
 As an example to showcase the extensibility of the WordPress Font Library.
 
 ## How to use:
-Download the plugin and install it in your WordPress.
+📁 [Download the plugin](https://github.com/matiasbenedetto/modern-fonts-stacks-for-wp-font-library/releases/download/0.0.1/modern-fonts-stacks-for-wp-font-library.zip) and install it in your WordPress.
 
-ℹ️ Gutenberg plugin trunk version is required to make it work.
-
-⚠️ This functionality is still in development and not ready for production use. Use at your own risk.
-
-⚠️ The API for this could and will change soon.
+### Disclaimer
+- ℹ️ Gutenberg plugin trunk version is required to make it work.
+- ⚠️ This functionality is still in development and not ready for production use. Use at your own risk.
+- ⚠️ The API for this could and will change soon.
 
 ## Props:
 Props to [@danklammer](https://github.com/danklammer) for the [Modern Fonts Stacks](https://modernfontstacks.com/) project.
