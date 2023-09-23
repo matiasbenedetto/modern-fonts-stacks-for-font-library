@@ -11,10 +11,10 @@ Text Domain: modern-fonts-stacks
 */
 
 $modern_fonts_config = array (
-    'id'             => 'modern-fonts-stacks',
-    'name'           => 'Modern Fonts Stacks',
-    'description'    => 'Stacks of modern systems fonts, not font face assets needed. The look will vary on each system.',
-    'data_json_file' => path_join( __DIR__, 'collection.json' ),
+    'id'          => 'modern-fonts-stacks',
+    'name'        => 'Modern Fonts Stacks',
+    'description' => 'Stacks of modern systems fonts, not font face assets needed. The look will vary on each system.',
+    'src'         => path_join( __DIR__, 'collection.json' ),
 );
 
 if ( function_exists( 'wp_register_font_collection' ) ) {
