@@ -1,5 +1,7 @@
 {
   "$schema": "https://schemas.wp.org/trunk/font-collection.json",
+  "name": "Modern Fonts Stacks",
+  "description": "Stacks of modern systems fonts, not font face assets needed. The look will vary on each system.",
   "categories": [
     {
       "slug": "sans-serif",
