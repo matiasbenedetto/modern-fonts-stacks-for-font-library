@@ -1,25 +1,5 @@
 {
   "$schema": "https://schemas.wp.org/trunk/font-collection.json",
-  "name": "Modern Fonts Stacks",
-  "description": "Stacks of modern systems fonts, not font face assets needed. The look will vary on each system.",
-  "categories": [
-    {
-      "slug": "sans-serif",
-      "name": "Sans Serif"
-    },
-    {
-      "slug": "serif",
-      "name": "Serif"
-    },
-    {
-      "slug": "monospace",
-      "name": "Monospace"
-    },
-    {
-      "slug": "handwriting",
-      "name": "Handwriting"
-    }
-  ],
   "font_families": [
     {
       "font_family_settings": {
