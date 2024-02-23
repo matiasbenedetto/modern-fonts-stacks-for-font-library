@@ -1,7 +1,7 @@
 # Modern Fonts Stacks for WordPress Font Library
 
 T**his is a plugin that adds a font collection to provide users with the ability to install a modern system fonts stacks.**
-It can be used new WordPress Font Library with `Gutenberg > 17.6` and/or `WordPress >= 6.5`.
+It can be used new WordPress Font Library with `Gutenberg >= 17.8` and/or `WordPress >= 6.5`.
 
 ## Why?
 As an example to showcase the extensibility of the WordPress Font Library.
