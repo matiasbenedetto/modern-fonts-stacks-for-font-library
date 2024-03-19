@@ -15,19 +15,19 @@ if ( function_exists( 'wp_register_font_collection' ) ) {
         $categories = array(
             array(
                 "slug" => "sans-serif",
-                "name" => "Sans Serif"
+                "name" => __("Sans Serif")
             ),
             array(
                 "slug" => "serif",
-                "name" => "Serif"
+                "name" => __("Serif")
             ),
             array(
                 "slug" => "monospace",
-                "name" => "Monospace"
+                "name" => __("Monospace")
             ),
             array(
                 "slug" => "handwriting",
-                "name" => "Handwriting"
+                "name" => __("Handwriting")
             )
         );
 
