@@ -9,6 +9,7 @@ As an example to showcase the extensibility of the WordPress Font Library.
 ## How to use:
 📁 [Download the plugin]([https://github.com/matiasbenedetto/modern-fonts-stacks-for-wp-font-library/releases/latest](https://github.com/matiasbenedetto/modern-fonts-stacks-for-font-library/files/14666850/modern-fonts-stacks-for-font-library.zip)) and install it in your WordPress
 
+---
 
 ## Props:
 Props to [@danklammer](https://github.com/danklammer) for the [Modern Fonts Stacks](https://modernfontstacks.com/) project.
