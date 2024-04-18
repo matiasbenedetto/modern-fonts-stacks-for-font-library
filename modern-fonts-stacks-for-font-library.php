@@ -10,8 +10,8 @@ License: GPLv2 or later
 Text Domain: modern-fonts-stacks-for-font-library
 */
 
-if ( function_exists( 'wp_register_font_collection' ) ) {
-    function register_modern_fonts_stacks() {
+if ( function_exists( 'mfsffl_wp_register_font_collection' ) ) {
+    function mfsffl_register_modern_fonts_stacks() {
         $categories = array(
             array(
                 'slug' => 'sans-serif',
