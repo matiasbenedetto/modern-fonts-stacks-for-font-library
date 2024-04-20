@@ -4,9 +4,11 @@ Contributors: mmaattiiaass
 Tags: fonts, font-library, system-fonts, modern-font-stacks
 Requires at least: 6.4
 Tested up to: 6.5
-Stable tag: 0.0.7
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+A collection of system fonts for the WordPress Font Library.
 
 == Description ==
 Modern Fonts for Font Library is a plugin that add a font collection to the WordPress Font Library that allows you to easily add modern font stacks to your website.
@@ -16,6 +18,12 @@ Modern Fonts for Font Library is a plugin that add a font collection to the Word
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 
 == Changelog ==
+
+= 1.0.2 =
+Fixed version and changelog.
+
+= 1.0.1 =
+First public release for the WordPress Plugin directory.
 
 = 0.0.7 =
 First stable release for WordPress 6.5
