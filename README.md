@@ -11,7 +11,7 @@ It can be used new WordPress Font Library with `WordPress >= 6.5`.
 As an example to showcase the extensibility of the WordPress Font Library.
 
 ## How to use:
-📁 [Download the plugin]([https://github.com/matiasbenedetto/modern-fonts-stacks-for-font-library/files/14666850/modern-fonts-stacks-for-font-library.zip](https://wordpress.org/plugins/modern-fonts-stacks-for-font-library/) and install it in your WordPress.
+📁 [Download the plugin](https://wordpress.org/plugins/modern-fonts-stacks-for-font-library/) and install it in your WordPress.
 
 ---
 
