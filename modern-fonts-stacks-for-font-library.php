@@ -3,7 +3,7 @@
 Plugin Name: Modern Fonts Stacks for Font Library
 Plugin URI: https://github.com/matiasbenedetto/modern-fonts-stacks-for-wp-font-library/
 Description: Add a font collection to your WordPress Font Library.
-Version: 1.0.2
+Version: 1.0.4
 Author: Matias Benedetto
 Author URI: https://wordpress.org/
 License: GPLv2 or later
