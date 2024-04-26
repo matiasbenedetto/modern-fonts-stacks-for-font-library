@@ -10,7 +10,7 @@ License: GPLv2 or later
 Text Domain: modern-fonts-stacks-for-font-library
 */
 
-if ( function_exists( 'mfsffl_wp_register_font_collection' ) ) {
+if ( function_exists( 'wp_register_font_collection' ) ) {
     function mfsffl_register_modern_fonts_stacks() {
         $categories = array(
             array(
@@ -41,6 +41,6 @@ if ( function_exists( 'mfsffl_wp_register_font_collection' ) ) {
         wp_register_font_collection( 'modern-fonts-stacks', $font_collection );
     }
 
-    add_action( 'init', 'register_modern_fonts_stacks' );
+    add_action( 'init', 'mfsffl_register_modern_fonts_stacks' );
 }
 
