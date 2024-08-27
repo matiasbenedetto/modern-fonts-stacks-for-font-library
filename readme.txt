@@ -4,7 +4,7 @@ Contributors: mmaattiiaass
 Tags: fonts, font-library, system-fonts, modern-font-stacks
 Requires at least: 6.4
 Tested up to: 6.6
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,9 +34,13 @@ I’ve built numerous sites using Modern Font Stacks. Having a good selection of
 
 == Changelog ==
 
+= 1.0.8 =
+Consolidate version release.
+
 = 1.0.7 =
 - Bump stable version.
 - Allow manual run of the deploy github action.
+- Update plugin description.
 
 = 1.0.5 =
 - Bump tested up to version.
