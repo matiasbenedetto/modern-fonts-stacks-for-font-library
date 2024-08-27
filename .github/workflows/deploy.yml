@@ -3,17 +3,9 @@ name: Deploy to WordPress.org Repository
 
 # Here we can define the events "on" which the action should be triggered.
 on:
-
-  # Since we want to publish new versions of our plugin, we only want this action to
-  # run when publishing a new release.
-  #
-  # The released version of the plugin will then be deployed to the repository.
-  #
-  # This allows us to run and manage plugin releases from a single location.
   release:
-
-    # run only when a new release is published, but not when it's classified as a pre-release.
     types: [released]
+  workflow_dispatch:
 
 # A list of jobs involved in this workflow.
 jobs:
