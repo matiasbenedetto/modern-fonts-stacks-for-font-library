@@ -34,6 +34,10 @@ I’ve built numerous sites using Modern Font Stacks. Having a good selection of
 
 == Changelog ==
 
+= 1.0.7 =
+- Bump stable version.
+- Allow manual run of the deploy github action.
+
 = 1.0.5 =
 - Bump tested up to version.
 - Add user review to the description.
